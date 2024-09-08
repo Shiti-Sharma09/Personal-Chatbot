@@ -10,3 +10,4 @@ Before you can start using the Llama2 Chat Bot, make sure you have the following
 - sentence-transformers
 - faiss
 - PyPDF2 (for PDF document loading)
+- https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/blob/main/llama-2-7b-chat.ggmlv3.q8_0.bin
