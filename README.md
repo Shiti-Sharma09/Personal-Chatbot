@@ -3,7 +3,7 @@
 Before you can start using the Llama2 Chat Bot, make sure you have the following prerequisites installed on your system:
 
 - Python 3.6 or higher
-# Required Python packages (you can install them using pip):
+## Required Python packages (you can install them using pip):
 - langchain
 - chainlit
 - sentence-transformers
